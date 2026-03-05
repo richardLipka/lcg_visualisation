@@ -1,0 +1,5 @@
+{
+  "name": "LCG Visualizer: The Planes Problem with test with highlight and shuffle",
+  "description": "An interactive demonstration of Linear Congruential Generator (LCG) issues, specifically showing the lattice structure and planes formed by poor parameters like IBM's RANDU.",
+  "requestFramePermissions": []
+}
